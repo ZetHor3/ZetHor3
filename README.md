@@ -11,7 +11,7 @@ Desktop apps · Tools · UI
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,qt,selenium" />
+<img src="https://skillicons.dev/icons?i=python,qt,selenium" /><br/><br/>
 
 <img src="https://skillicons.dev/icons?i=github,git,vscode,linux,figma" />
 
