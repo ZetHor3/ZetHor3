@@ -11,11 +11,7 @@ Desktop apps · Tools · UI
 
 <br/>
 
-<img alt="Python" src="https://skillicons.dev/icons?i=python" />
-<img alt="Qt" src="https://skillicons.dev/icons?i=qt" />
-<img alt="Git" src="https://skillicons.dev/icons?i=git" />
-<img alt="Linux" src="https://skillicons.dev/icons?i=linux" />
-<img alt="VS Code" src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,linux,figma" />
 
 <br/><br/>
 
