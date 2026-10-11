@@ -6,7 +6,7 @@ Code. Create. Improve.
 
 <br/>
 
-**Python + PyQt6**  
+**Python + PyQt6**
 Desktop apps · Tools · UI
 
 <br/>
@@ -14,8 +14,23 @@ Desktop apps · Tools · UI
 <img src="https://skillicons.dev/icons?i=python,qt,selenium" /><br/><br/>
 
 <img src="https://skillicons.dev/icons?i=github,git,vscode,linux,figma" />
+<br/>
 
-<br/><br/>
+### 📊 GitHub Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZetHor3&show_icons=true&theme=transparent&hide_border=true&icon_color=26a69a&title_color=26a69a&text_color=9e9e9e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZetHor3&layout=compact&theme=transparent&hide_border=true&title_color=26a69a&text_color=9e9e9e" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZetHor3&theme=transparent&hide_border=true&ring=26a69a&fire=26a69a&currStreakLabel=26a69a" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ZetHor3&theme=onedark&no-frame=true&column=5&margin-w=12&margin-h=8" />
+
+
+<br/>
 
 <a href="https://github.com/ZetHor3?tab=repositories">Projects</a>
 ·
@@ -27,4 +42,5 @@ Desktop apps · Tools · UI
 
 <sub>Small projects. Clean code. Continuous progress.</sub>
 
+<br/><br/>
 </div>
