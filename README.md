@@ -27,9 +27,6 @@ Desktop apps · Tools · UI
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ZetHor3&theme=onedark&no-frame=true&column=5&margin-w=12&margin-h=8" />
-
-
 <br/>
 
 <a href="https://github.com/ZetHor3?tab=repositories">Projects</a>
